@@ -1,2 +1,2 @@
 # LuzzattiHospital
-Project for the DB course at the faculty of Computer Science, UNIPD.
+Project for the DB course(2023/2024) at the faculty of Computer Science, UNIPD.
